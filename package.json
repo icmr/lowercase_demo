@@ -1,0 +1,19 @@
+{
+  "name": "lowercase_demo",
+  "version": "0.0.1",
+  "description": "A demo package of lowercase",
+  "keywords": [
+    "demo","lowercase"
+  ],
+  "author": "Jeffrey Lee",
+  "license": "MIT",
+  "main": "lowercase.js",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/icmr/lowercase_demo.git"  
+  },
+  "engines":{
+    "node": ">=v0.10.5"  
+  },
+  "readmeFilename": "README.md"
+}
